@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Teingi !
 
-- **Developer @ OceanBase** (2021–Present)  
-- Founder of **OceanBase Special Interest Group (SIG)** (2024–Present) 
-- **OceanBase Tech Evangelist** (2023–Present) 
 - Member of the **OceanBase Technical Oversight Committee (TOC)** (2025–Present) 
-- **PMC Member** of [`obdiag`](https://github.com/oceanbase/obdiag) & [`powermem`](https://github.com/oceanbase/powermem)
+- **PMC Member** of [`powermem`](https://github.com/oceanbase/powermem) (2025–Present)
+- **PMC Member** of [`obdiag`](https://github.com/oceanbase/obdiag) (2024–Present)
+- Founder of **OceanBase Special Interest Group (SIG)** (2024–Present)
+- **OceanBase Tech Evangelist** (2023–Present) 
+- **Developer @ OceanBase** (2021–Present)  
 - Former **Database Platform Engineer @ SenseTime** (2019–2021) 
 
 ---
