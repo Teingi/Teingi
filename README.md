@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Teingi]!
+# 👋 Hi, I'm Teingi !
 
 - **OceanBase Developer**
 - **OceanBase Tech Evangelist**
