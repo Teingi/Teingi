@@ -1,10 +1,6 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Teingi]!
 
-🛠️ **OceanBase Developer** | 🌐 **Open Source Enthusiast** | 🎤 **OceanBase Tech Evangelist**  
-Member of the **OceanBase Technical Oversight Committee (TOC)**  
-
-I build tools to make [OceanBase](https://github.com/oceanbase/oceanbase) easier to diagnose, integrate, and adopt.  
-Passionate about developer experience, observability, and open ecosystems.
+🛠️ **OceanBase Developer** | 🌐 **Open Source Enthusiast** | 🎤 **OceanBase Tech Evangelist**  Member of the **OceanBase Technical Oversight Committee (TOC)**  
 
 ---
 
