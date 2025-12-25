@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Teingi !
 
 - **OceanBase Developer**
+- Founder of **OceanBase Special Interest Group (SIG)**
 - **OceanBase Tech Evangelist**
 - Member of the **OceanBase Technical Oversight Committee (TOC)**
 - **PMC Member** of [`obdiag`](https://github.com/oceanbase/obdiag) & [`powermem`](https://github.com/oceanbase/powermem)
