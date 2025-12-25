@@ -1,6 +1,9 @@
 # 👋 Hi, I'm [Teingi]!
 
-🛠️ **OceanBase Developer** | 🌐 **Open Source Enthusiast** | 🎤 **OceanBase Tech Evangelist**  Member of the **OceanBase Technical Oversight Committee (TOC)**  
+- **OceanBase Developer**
+- **OceanBase Tech Evangelist**
+- Member of the **OceanBase Technical Oversight Committee (TOC)**
+- **PMC Member** of [`obdiag`](https://github.com/oceanbase/obdiag) & [`powermem`](https://github.com/oceanbase/powermem)
 
 ---
 
@@ -34,22 +37,5 @@
 > PowerMem: Your AI-Powered Long-Term Memory — Accurate, Agile, Affordable.
 
 *(Both projects are part of the [OceanBase GitHub org](https://github.com/oceanbase))*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teingi&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teingi&layout=compact&theme=radical" height="150" />
-</div>
-
----
-
-## 🌐 Let’s Connect
-
-> 💬 Feel free to reach out about **OceanBase**, or how to contribute to our open-source ecosystem!
-
----
 
 ⭐️ Building the future of distributed databases, one commit at a time.
