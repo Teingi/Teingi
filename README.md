@@ -5,7 +5,7 @@
 - **PMC Member** of [`obdiag`](https://github.com/oceanbase/obdiag) (2024–Present)
 - Founder of **OceanBase Special Interest Group (SIG)** (2024–Present)
 - **OceanBase Tech Evangelist** (2023–Present) 
-- **Developer @ OceanBase** (2021–Present)  
+- **Developer of [OCP](https://www.oceanbase.com/docs/ocp) @ OceanBase** (2021–Present)  
 - Former **Database Platform Engineer @ SenseTime** (2019–2021) 
 
 ---
