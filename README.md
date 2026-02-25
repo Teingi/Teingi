@@ -29,7 +29,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-## Blog & 
+## Blog & books
 - Blog: [CSDN](https://blog.csdn.net/weixin_40449300?spm=1000.2115.3001.5343)
 - Books: 《DeepSeek生态深度探索》- 电子工业出版社
 - Books: 《数据库技术与应用实训教程(OceanBase版)》- 电子工业出版社
