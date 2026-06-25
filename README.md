@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Teingi !
 
+- **PMC Member** of [`contextseek`](https://github.com/ob-labs/contextseek) (2026–Present)
 - Member of the **OceanBase Technical Oversight Committee (TOC)** (2025–Present) 
 - **PMC Member** of [`powermem`](https://github.com/oceanbase/powermem) (2025–Present)
 - **PMC Member** of [`obdiag`](https://github.com/oceanbase/obdiag) (2024–Present)
